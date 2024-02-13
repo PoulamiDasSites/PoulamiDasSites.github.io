@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    Office: EER 5.806 \
+    Office: EER 5.806 |
     Email: poulami.das@utexas.edu 
     
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor (and a Fellow of the AMD Chair in Computer Engineering) in the Department of Electrical and Computer Engineering at the University of Texas at Austin. Prior to joining UT Austin, I completed my PhD at Georgia Tech where I was advised by Prof. Moin Qureshi. My research focuses on software and architecture for improving the reliability of quantum computers. I am also interested in computer architecture, memory systems, and emerging technologies.
