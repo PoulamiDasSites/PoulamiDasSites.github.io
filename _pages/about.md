@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: > 
+    Office: EER 5.806 \
+    Email: poulami.das@utexas.edu 
+    
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor (and a Fellow of the AMD Chair in Computer Engineering) in the Department of Electrical and Computer Engineering at the University of Texas at Austin. Prior to joining UT Austin, I completed my PhD at Georgia Tech where I was advised by Prof. Moin Qureshi. My research focuses on software and architecture for improving the reliability of quantum computers. I am also interested in computer architecture, memory systems, and emerging technologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am actively looking for highly motivated undergraduate and graduate students to join my research group. Please email me at poulami.das@utexas.edu if you are interested.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am teaching ECE-382V: Quantum Computing Systems Software/Architecture Perspective in Fall 2023 and scheduled to teach it again in Fall 2024. I will be teaching ECE-460N: Computer Architecture in Spring 2024.
