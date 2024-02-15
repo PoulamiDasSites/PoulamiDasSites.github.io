@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor (and a Fellow of the AMD Chair in Computer Engineering) in the Department of Electrical and Computer Engineering at the University of Texas at Austin. Prior to joining UT Austin, I completed my PhD at Georgia Tech where I was advised by Prof. Moin Qureshi. My research focuses on software and architecture for improving the reliability of quantum computers. I am also interested in computer architecture, memory systems, and emerging technologies.
+I am an Assistant Professor and a Fellow of the Advanced Micro Devices (AMD) Chair in Computer Engineering in the Chandra Family Department of Electrical and Computer Engineering at The University of Texas at Austin. 
 
-I am actively looking for highly motivated undergraduate and graduate students to join my research group. Please email me at poulami.das@utexas.edu if you are interested.
+My research focuses on software and architecture for improving the reliability of quantum computers. I am also interested in computer architecture, memory systems, and emerging technologies. 
 
-I am teaching ECE-382V: Quantum Computing Systems Software/Architecture Perspective in Fall 2023 and scheduled to teach it again in Fall 2024. I will be teaching ECE-460N: Computer Architecture in Spring 2024.
+Before joining UT Austin as a faculty, I obtained my PhD degree from Georgia Tech and MS degree from UT Austin.  
+
+I am actively looking for highly motivated undergraduate and graduate students to join my research group. Please email me if you are interested. 
+<!-- 
+I am teaching ECE-382V: Quantum Computing Systems Software/Architecture Perspective in Fall 2023 and scheduled to teach it again in Fall 2024. I will be teaching ECE-460N: Computer Architecture in Spring 2024. -->

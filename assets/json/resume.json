@@ -15,7 +15,99 @@
     },
     "profiles": []
   },
+  
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Computer Architecture",
+      "studyType": "PhD",
+      "startDate": "2017-08-01",
+      "endDate": "2023-05-01",
+      "courses": [],
+      "highlights": ["Dissertation: Software and Architecture Techniques for Improving Fidelity of Emerging Quantum Computers"]
+    },
+    {
+      "institution": "The University of Texas at Austin",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Masters",
+      "startDate": "2014-08-01",
+      "endDate": "2016-05-01",
+      "courses": []
+    },
+    {
+      "institution": "National Institute of Technology, Durgapur",
+      "area": "Electronics and Communications Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2008-08-01",
+      "endDate": "2012-05-01",
+      "courses": ["Institute Gold Medal for Highest Distinction"]
+    }
+  ],
+  
+  "awards": [
+    {
+      "title": "IEEE MICRO Top Picks Honorable Mention for Astrea Paper",
+      "date": 2024
+    },
+    {
+      "title": "Georgia Tech ECE’s Nominee for ACM Doctoral Dissertation Award",
+      "date": 2023
+    },
+    {
+      "title": "Selected as a Fellow of the AMD Chair in Computer Engineering, UT Austin",
+      "date": 2023
+    },
+    {
+      "title": "Selected as a Rising Star in EECS, UT Austin",
+      "date": 2022
+    },
+    {
+      "title": "Invited to the 7th Workshop on the Future of Computing Architectures, IBM Research",
+      "date": 2022
+    },
+    {
+      "title": "Invited to the 9th Heidelberg Laureate Forum",
+      "date": 2022
+    },
+    {
+      "title": "Best Research Award, Ph.D. Forum, Design Automation Conference",
+      "date": 2022
+    },
+    {
+      "title": "Colonel Oscar P. Cleaver Award for the Most Outstanding PhD Dissertation Proposal (Georgia Tech)",
+      "date": 2022
+    },
+    {
+      "title": "Microsoft Research PhD Fellowship (2020-2022)",
+      "date": 2022
+    },
+    {
+      "title": "Distinguished Alumnus of Ashok Hall Group of Schools, Kolkata",
+      "date": 2020
+    },
+    {
+      "title": "Best Paper Award for 'A Case for Superconducting Accelerators' at Computing Frontiers",
+      "date": 2019
+    },
+    {
+      "title": "Institute Gold Medal for Highest Distinction in B. Tech, NIT Durgapur",
+      "date": 2012
+    },
+    {
+      "title": "Institute Gold Medal for Overall Scholastic Excellence in B. Tech, NIT Durgapur",
+      "date": 2012
+    }
+  ],
   "work": [
+    {
+      "name": "The University of Texas at Austin",
+      "position": "Assistant Professor of Electrical and Computer Engineering",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "summary": "Fellow of the AMD Chair in Computer Engineering",
+      "highlights": [],
+      "publications": []
+    },
     {
       "name": "Amazon Braket Science (Quantum Research)",
       "position": "Research Intern",
@@ -96,17 +188,7 @@
       "endDate": "2014-08-01",
       "summary": "Worked as an IC Design Engineer in the Custom Solutions Engineering Group where I worked on the design and verification of Ethernet and PCIe subsystems."
     }
-  ],
-  "education": [
-    {
-      "institution": "Georgia Institute of Technology",
-      "area": "Computer Architecture",
-      "studyType": "PhD",
-      "startDate": "2017-08-01",
-      "endDate": "2023-05-01",
-      "courses": []
-    }
-  ],
+  ], 
   "teaching": [
     {
       "position": "Graduate Course Co-Instructor",
@@ -130,4 +212,6 @@
       "endDate": "2016-05-01"
     }
   ]
+
+  
 }
