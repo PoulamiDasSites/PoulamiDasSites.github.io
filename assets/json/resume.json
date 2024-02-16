@@ -16,33 +16,7 @@
     "profiles": []
   },
   
-  "education": [
-    {
-      "institution": "Georgia Institute of Technology",
-      "area": "Computer Architecture",
-      "studyType": "PhD",
-      "startDate": "2017-08-01",
-      "endDate": "2023-05-01",
-      "courses": [],
-      "highlights": ["Dissertation: Software and Architecture Techniques for Improving Fidelity of Emerging Quantum Computers"]
-    },
-    {
-      "institution": "The University of Texas at Austin",
-      "area": "Electrical and Computer Engineering",
-      "studyType": "Masters",
-      "startDate": "2014-08-01",
-      "endDate": "2016-05-01",
-      "courses": []
-    },
-    {
-      "institution": "National Institute of Technology, Durgapur",
-      "area": "Electronics and Communications Engineering",
-      "studyType": "Bachelors",
-      "startDate": "2008-08-01",
-      "endDate": "2012-05-01",
-      "courses": ["Institute Gold Medal for Highest Distinction"]
-    }
-  ],
+  
   
   "awards": [
     {
@@ -82,12 +56,14 @@
       "date": 2022
     },
     {
-      "title": "Distinguished Alumnus of Ashok Hall Group of Schools, Kolkata",
-      "date": 2020
-    },
-    {
       "title": "Best Paper Award for 'A Case for Superconducting Accelerators' at Computing Frontiers",
       "date": 2019
+    }
+  ],
+  "honors": [
+    {
+      "title": "Distinguished Alumnus of Ashok Hall Group of Schools, Kolkata",
+      "date": 2020
     },
     {
       "title": "Institute Gold Medal for Highest Distinction in B. Tech, NIT Durgapur",
@@ -96,120 +72,6 @@
     {
       "title": "Institute Gold Medal for Overall Scholastic Excellence in B. Tech, NIT Durgapur",
       "date": 2012
-    }
-  ],
-  "work": [
-    {
-      "name": "The University of Texas at Austin",
-      "position": "Assistant Professor of Electrical and Computer Engineering",
-      "startDate": "2023-08-01",
-      "endDate": "Present",
-      "summary": "Fellow of the AMD Chair in Computer Engineering",
-      "highlights": [],
-      "publications": []
-    },
-    {
-      "name": "Amazon Braket Science (Quantum Research)",
-      "position": "Research Intern",
-      "startDate": "2022-05-01",
-      "endDate": "2022-07-01",
-      "summary": "Shaped the vision of AWS Braket’s quantum software stack for near-term quantum computers. Implemented a software framework for efficient native gate selection for quantum circuits to improve program fidelity.",
-      "highlights": [],
-      "publications": [
-        {
-          "title": "The Imitation Game: Leveraging CopyCats for Robust Native Gate Selection in NISQ Programs",
-          "conference": "HPCA",
-          "year": 2023,
-          "url": "https://sites.gatech.edu/poulamidas/files/2022/11/Paper_1_Imitation_Game.pdf"
-        }
-      ]
-    },
-    {
-      "name": "Google Quantum AI Research",
-      "position": "Research Intern",
-      "startDate": "2021-05-01",
-      "endDate": "2021-07-01",
-      "summary": "Designed a reconfigurable, lightweight, low latency, accurate lookup table decoder for studying quantum error correction in the near-term.",
-      "highlights": [],
-      "publications": [
-        {
-          "title": "LILLIPUT: A Lightweight Low-Latency Lookup-Table Based Decoder for Near-term Quantum Error Correction",
-          "conference": "ASPLOS",
-          "year": 2022,
-          "url": "https://cpn-us-w2.wpmucdn.com/sites.gatech.edu/dist/f/2313/files/2022/01/ASPLOS_LILLIPUT_Camera_Ready.pdf"
-        }
-      ]
-    },
-    {
-      "name": "Microsoft Research",
-      "position": "Research Intern",
-      "startDate": "2019-05-01",
-      "endDate": "2019-07-01",
-      "summary": "Designed the micro-architecture of a fully pipelined Union-Find decoder to enable quantum error correction. Proposed an optimized hardware-efficient system architecture for large fault-tolerant quantum computers.",
-      "highlights": [],
-      "publications": [
-        {
-          "title": "AFS: Accurate, Fast, and Scalable Error-Decoding for Fault-Tolerant Quantum Computers",
-          "conference": "HPCA",
-          "year": 2022,
-          "url": "https://cpn-us-w2.wpmucdn.com/sites.gatech.edu/dist/f/2313/files/2022/01/AFS_HPCA_Camera_Ready-1.pdf"
-        }
-      ]
-    },
-    {
-      "name": "Microsoft Research",
-      "position": "Research Intern",
-      "startDate": "2018-05-01",
-      "endDate": "2018-07-01",
-      "summary": "Designed an accelerator for bitcoin mining using superconducting technology. Developed a methodology to analyze performance and resource estimates of superconducting designs.",
-      "highlights": [],
-      "publications": [
-        {
-          "title": "A Case for Superconducting Accelerators",
-          "conference": "Computing Frontiers",
-          "year": 2019,
-          "url": "https://dl.acm.org/doi/10.1145/3310273.3321561"
-        }
-      ]
-    },
-    {
-      "name": "NXP Semiconductors",
-      "position": "Digital Design Engineer",
-      "location": "Austin, Texas",
-      "startDate": "2016-05-01",
-      "endDate": "2017-08-01",
-      "summary": "Worked as a Digital Design Engineer in the Digital Networking Group where I designed PCIe controller and energy-efficient Ethernet modules for networking SOCs. Defined the architecture and designed the control and reset block to support integration of various IPs in different SOCs."
-    },
-    {
-      "name": "LSI Corporation (now Broadcom)",
-      "position": "IC Design Engineer",
-      "location": "Bangalore, India",
-      "startDate": "2012-08-01",
-      "endDate": "2014-08-01",
-      "summary": "Worked as an IC Design Engineer in the Custom Solutions Engineering Group where I worked on the design and verification of Ethernet and PCIe subsystems."
-    }
-  ], 
-  "teaching": [
-    {
-      "position": "Graduate Course Co-Instructor",
-      "course": "Introduction to Quantum Computing",
-      "institution": "Georgia Institute of Technology",
-      "startDate": "2022-01-01",
-      "endDate": "2022-05-01"
-    },
-    {
-      "position": "Graduate Teaching Assistant",
-      "course": "Advanced Computer Architecture",
-      "institution": "Georgia Institute of Technology",
-      "startDate": "2017-08-01",
-      "endDate": "2018-12-01"
-    },
-    {
-      "position": "Graduate Teaching Assistant",
-      "course": "Digital Logic Design",
-      "institution": "University of Texas at Austin",
-      "startDate": "2015-01-01",
-      "endDate": "2016-05-01"
     }
   ]
 

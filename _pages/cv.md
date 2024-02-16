@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Awards and Honors
 nav: true
 nav_order: 5
 cv_pdf: 
