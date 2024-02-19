@@ -95,6 +95,8 @@ layout: default
                   {% include resume/projects.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
+                {% when '' %}
+                  {% include resume/_.liquid %}
                 {% when 'honors' %}
                   {% include resume/honors.liquid %}
                 {% when 'skills' %}
