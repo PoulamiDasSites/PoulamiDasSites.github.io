@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined the University of Texas at Austin as an Assistant Professor.
+Joined the University of Texas at Austin as an Assistant Professor.

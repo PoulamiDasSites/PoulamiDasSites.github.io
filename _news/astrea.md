@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Astrea selected for IEEE MICRO Top Picks Honorable Mention
+Astrea selected for IEEE MICRO Top Picks Honorable Mention.

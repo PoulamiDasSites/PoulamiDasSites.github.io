@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am teaching ECE 382V: Quantum Computing Systems
+I am teaching ECE 382V: Quantum Computing Systems.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the Cisco Research Award [Grant]
+Received the Cisco Research Award [Grant].
