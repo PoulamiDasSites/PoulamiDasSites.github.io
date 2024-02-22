@@ -4,6 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
+titletop: true
 nav_order: 6
 ---
 

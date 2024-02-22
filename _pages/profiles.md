@@ -2,6 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
+titletop: true
 description: My research group
 nav: true
 nav_order: 7
