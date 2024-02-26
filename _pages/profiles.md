@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: People
+permalink: /students/
+title: Students
 titletop: true
 description: My research group
 nav: true
