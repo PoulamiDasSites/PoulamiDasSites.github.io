@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-News: Promatch is accepted at ASPLOS 2024.
+Promatch is accepted at ASPLOS 2024.
