@@ -2,8 +2,8 @@
 layout: profiles
 permalink: /students/
 title: Students
-titletop: true
-description: My research group
+titletop: false
+description: 
 nav: true
 nav_order: 7
 
