@@ -10,7 +10,8 @@ description:
 toc:
   sidebar: false
 ---
-
+- UT Austin, Defense Research Advancement, Creating Connections Award (2024)
+- 2024 ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award (2024)
 - IEEE MICRO Top Picks Honorable Mention for Astrea Paper (2024)
 - Georgia Tech ECE’s Nominee for ACM Doctoral Dissertation Award (2023)
 - Selected as a Fellow of the AMD Chair in Computer Engineering, UT Austin (2023)
@@ -23,4 +24,4 @@ toc:
 - Best Paper Award for 'A Case for Superconducting Accelerators' at Computing Frontiers (2019)
 - Distinguished Alumnus of Ashok Hall Group of Schools, Kolkata (2020)
 - Institute Gold Medal for Highest Distinction in B. Tech, NIT Durgapur (2012)
-- Institute Gold Medal for Overal
+- Institute Gold Medal for Overall Scholastic Excellence in B. Tech, NIT Durgapur (2012)

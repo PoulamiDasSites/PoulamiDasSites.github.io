@@ -13,7 +13,28 @@ profiles:
   - align: right
     image: avinkumar.jpg
     content: about_avinash.md
+    hyperlink: https://www.linkedin.com/in/avinkumar2020/
     image_circular: false # crops the image to make it circular
-    more_info: >
-      avinkumar@utexas.edu
+   
+
+  - align: right
+    image: won_joon_yun.jpg
+    content: about_wonjoon.md
+    hyperink: https://www.wonjoonyun.com
+    image_circular: false # crops the image to make it circular
+    
+
+  - align: right
+    image: ravi_ghadia.jpg
+    content: about_ravi.md
+    hyperlink: https://ghadiaravi13.github.io/
+    image_circular: false # crops the image to make it circular
+    
+
+  - align: right
+    image: sourish_wawdhane.png
+    content: about_sourish.md
+    hyperlink: https://www.linkedin.com/in/sourishw/
+    image_circular: false # crops the image to make it circular
+    
 ---

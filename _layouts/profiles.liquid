@@ -4,33 +4,52 @@ layout: page
 <div class="post">
   <article>
     {% if page.profiles %}
-      {% for profile in page.profiles %}
-        <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-          {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-            {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid path = profile_image_path class = profile_image_class sizes = sizes alt = profile.image %}
-          {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
-        </div>
+      <div class="container">
+        <div class="row">
+          {% for profile in page.profiles %}
+            <div class="col-md-6 d-flex align-items-stretch mb-4">
+              <div class="card w-100">
+                <div class="card-body text-center">
+                  <!-- Profile Image -->
+                  {% if profile.image %}
+                    {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+                    {% if profile.image_circular %}
+                      {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle mb-3' %}
+                    {% else %}
+                      {% assign profile_image_class = 'img-fluid z-depth-1 rounded mb-3' %}
+                    {% endif %}
+                    <a href="{{ profile.hyperlink }}" target="_blank">
+                      {% include figure.liquid path = profile_image_path class = profile_image_class sizes = sizes alt = profile.image %}
+                    </a>
+                  {% endif %}
 
-        <div class="clearfix">
-          {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
+                  <!-- Profile Name -->
+                  {% if profile.name %}
+                    <h5 class="card-title">{{ profile.name }}</h5>
+                  {% endif %}
+
+                  <!-- Profile Email -->
+                  {% if profile.more_info %}
+                    <p class="card-text">{{ profile.more_info }}</p>
+                  {% endif %}
+
+                  <!-- Profile Content -->
+                  <div class="clearfix">
+                    {% if profile.content %}
+                      {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+                      <p class="card-text">{{ profile_content | markdownify }}</p>
+                    {% else %}
+                      <p class="card-text">{{ content }}</p>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+           
+          {% endfor %}
         </div>
-      {% endfor %}
+      </div>
     {% endif %}
   </article>
 </div>

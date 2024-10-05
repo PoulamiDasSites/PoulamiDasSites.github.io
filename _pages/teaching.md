@@ -8,13 +8,13 @@ titletop: false
 nav_order: 6
 ---
 ## At UT Austin
+**ECE-382V: Introduction to Quantum Computing Systems: From A Software and Architecture Perspective.**
+- Semesters: Fall 2023, Fall 2024
+- Course Overview: [Introduction to Quantum Computing Systems: From A Software and Architecture Perspective](https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/12950064/)
+  
 **ECE-460N: Computer Architecture.**
 - Semesters: Spring 2024
 - Course Overview: [Computer Architecture Syllabus](https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/13550699/)
-
-**ECE-382V: Introduction to Quantum Computing Systems: From A Software and Architecture Perspective.**
-- Semesters: Fall 2023, Fall 2024 (Scheduled)
-- Course Overview: [Introduction to Quantum Computing Systems: From A Software and Architecture Perspective](https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/12950064/)
 
 **ECE 316: Digital Logic Design** (Teaching Assistant)
 - Semesters: Spring 2015, Fall 2015, Spring 2016
