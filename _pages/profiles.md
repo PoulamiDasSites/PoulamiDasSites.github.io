@@ -36,5 +36,11 @@ profiles:
     content: about_sourish.md
     hyperlink: https://www.linkedin.com/in/sourishw/
     image_circular: false # crops the image to make it circular
+
+   - align: right
+    image: chinyicheng.jpeg
+    content: about_chinyi.md
+    hyperlink: https://www.linkedin.com/in/chin-yi-cheng-48343227b/
+    image_circular: false # crops the image to make it circular
     
 ---
