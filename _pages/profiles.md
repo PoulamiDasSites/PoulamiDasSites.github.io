@@ -11,14 +11,14 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: avinkumar.jpg
+    image: avinkumar.jpeg
     content: about_avinash.md
     hyperlink: https://www.linkedin.com/in/avinkumar2020/
     image_circular: false # crops the image to make it circular
    
 
   - align: right
-    image: won_joon_yun.jpg
+    image: won_joon_yun.jpeg
     content: about_wonjoon.md
     hyperink: https://www.wonjoonyun.com
     image_circular: false # crops the image to make it circular
