@@ -10,7 +10,7 @@ description:
 toc:
   sidebar: false
 ---
-- 2024 ACM SIGMICRO Dissertation Award
+- 2024 ACM SIGMICRO Dissertation Award (2024)
 - UT Austin, Defense Research Advancement, Creating Connections Award (2024)
 - 2024 ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award (2024)
 - IEEE MICRO Top Picks Honorable Mention for Astrea Paper (2024)
