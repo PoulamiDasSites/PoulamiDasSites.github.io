@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-UT Austin DRA Creating Connections Award
+Received the UT Austin DRA Creating Connections Award

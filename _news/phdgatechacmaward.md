@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2024 ACM SIGMICRO Dissertation Award
+Received the 2024 ACM SIGMICRO Dissertation Award
