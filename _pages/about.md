@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 I am an Assistant Professor and a Fellow of the Advanced Micro Devices (AMD) Chair in Computer Engineering in the Chandra Family Department of Electrical and Computer Engineering at The University of Texas at Austin. 
 
-My research focuses on software and architecture for improving the reliability of quantum computers. I am also interested in computer architecture, memory systems, and emerging technologies. 
+I lead the Architectures for Emerging Systems (ACES) research group. My research focuses on software and architecture for improving the reliability of quantum computers. I am also interested in computer architecture, memory systems, and emerging technologies. 
 
 Before joining UT Austin as a faculty, I obtained my PhD degree from Georgia Tech and MS degree from UT Austin.  
 
