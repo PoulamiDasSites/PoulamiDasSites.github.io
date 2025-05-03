@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Preprint of Ravi and Avinash’s paper Dialogue without Limits is now available!
+Ravi and Avinash’s paper Dialogue without Limits was accepted to ICML 2025 and is now available [here](https://arxiv.org/pdf/2503.00979)!

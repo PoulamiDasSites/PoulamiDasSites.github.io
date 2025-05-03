@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Preprint of Avinash’s paper Qontexts is now available!
+Preprint of Avinash’s paper Qontexts is now available [here](https://arxiv.org/pdf/2504.07048)!
