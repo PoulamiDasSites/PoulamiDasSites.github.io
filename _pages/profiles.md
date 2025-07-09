@@ -3,7 +3,7 @@ layout: profiles
 permalink: /students/
 title: Students
 titletop: false
-description: 
+description:
 nav: true
 nav_order: 7
 
@@ -15,27 +15,22 @@ profiles:
     content: about_avinash.md
     hyperlink: https://www.linkedin.com/in/avinkumar2020/
     image_circular: false # crops the image to make it circular
-   
 
   - align: right
     image: won_joon_yun.jpeg
     content: about_wonjoon.md
     hyperink: https://www.wonjoonyun.com
     image_circular: false # crops the image to make it circular
-    
 
   - align: right
     image: ravi_ghadia.jpg
     content: about_ravi.md
     hyperlink: https://ghadiaravi13.github.io/
     image_circular: false # crops the image to make it circular
-    
 
   - align: right
     image: sourish_wawdhane.png
     content: about_sourish.md
     hyperlink: https://www.linkedin.com/in/sourishw/
     image_circular: false # crops the image to make it circular
-
-    
 ---

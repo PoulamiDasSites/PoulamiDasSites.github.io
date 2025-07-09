@@ -3,21 +3,21 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-  {% if page.titletop %}
-    <h1 class="post-title">{{ page.title }}</h1>
-  {% endif %}
+    {% if page.titletop %}
+      <h1 class="post-title">{{ page.title }}</h1>
+    {% endif %}
     <p class="post-description">{{ page.description }}</p>
   </header>
 
-<style>
-  article {
-    text-align: justify;
-  }
-</style>
+  <style>
+    article {
+      text-align: justify;
+    }
+  </style>
 
-<article>
-  {{ content }}
-</article>
+  <article>
+    {{ content }}
+  </article>
 
   {% if page.related_publications %}
     <h2>References</h2>
