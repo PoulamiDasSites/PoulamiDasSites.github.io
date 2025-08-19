@@ -27,6 +27,12 @@ profiles:
     content: about_ravi.md
     hyperlink: https://ghadiaravi13.github.io/
     image_circular: false # crops the image to make it circular
+  
+  - align: right
+    image: dongwhee_kim.jpg
+    content: about_dongwhee.md
+    hyperlink: https://dongwhee-kim.github.io/
+    image_circular: false # crops the image to make it circular
 
   - align: right
     image: sourish_wawdhane.png
