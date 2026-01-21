@@ -29,7 +29,7 @@ profiles:
     image_circular: false # crops the image to make it circular
   
   - align: right
-    image: dongwhee_kim.jpg
+    image: dongwheenew.jpg
     content: about_dongwhee.md
     hyperlink: https://dongwhee-kim.github.io/
     image_circular: false # crops the image to make it circular
