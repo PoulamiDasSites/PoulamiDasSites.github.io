@@ -12,7 +12,8 @@ nav_order: 6
 
 **ECE-460N: Computer Architecture.**
 
-- Semesters: Spring 2024, Spring 2026, Scheduled to teach Fall 2026 (graduate only), Spring 2027
+- Semesters: Spring 2024, Spring 2026
+- Scheduled to teach Fall 2026 (graduate only), Spring 2027
 - Course Overview: [Computer Architecture Syllabus](https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/13550699/)
 
 **ECE-382V: Introduction to Quantum Computing Systems: From A Software and Architecture Perspective.**
