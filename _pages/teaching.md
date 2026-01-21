@@ -19,6 +19,7 @@ nav_order: 6
 **ECE-382V: Introduction to Quantum Computing Systems: From A Software and Architecture Perspective.**
 
 - Semesters: Fall 2023, Fall 2024, Fall 2025
+- Scheduled to teach Fall 2027
 - Course Overview: [Introduction to Quantum Computing Systems: From A Software and Architecture Perspective](https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/12950064/)
 
 
