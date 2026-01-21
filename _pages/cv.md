@@ -10,7 +10,7 @@ description:
 toc:
   sidebar: false
 ---
-
+- Ralph E. Powe Junior Faculty Enhancement Award (2025)
 - ACM SIGMICRO Dissertation Award (2024)
 - UT Austin, Defense Research Advancement, Creating Connections Award (2024)
 - ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award Honorable Mention (2024)
