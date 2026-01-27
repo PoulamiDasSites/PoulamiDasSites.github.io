@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Avinash's paper Helios was accepted to MLSys 2026!
+Avinash's paper [Helios](https://arxiv.org/pdf/2504.10724) was accepted to MLSys 2026!
