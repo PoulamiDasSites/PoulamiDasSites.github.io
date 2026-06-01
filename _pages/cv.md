@@ -10,6 +10,8 @@ description:
 toc:
   sidebar: false
 ---
+- NSF Faculty Early Career Development (CAREER) Award (2026)
+- UT Austin, ECE Junior Faculty Spirit Award (2026)
 - Ralph E. Powe Junior Faculty Enhancement Award (2025)
 - ACM SIGMICRO Dissertation Award (2024)
 - UT Austin, Defense Research Advancement, Creating Connections Award (2024)
