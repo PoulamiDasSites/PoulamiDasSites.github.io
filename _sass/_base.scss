@@ -1102,3 +1102,107 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
+
+// Widening the badge column shifts the titles right: further from the venue
+// badge, closer to the year. The year gutter shrinks by the same amount so the
+// title column keeps its width and no extra titles wrap.
+// Widest badge is 88px; the year text is 71px.
+$pub-badge-col: 142px;
+$pub-year-gutter: 110px;
+
+// Profile cards (students page)
+
+.profile-group-title {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+// These two pages need more room than the site-wide $max-content-width:
+// the student grid is 3 cards across, and publication titles should not wrap.
+// Must target the outer content container -- an inner .container is clamped by it.
+// Both containers must be widened: the profiles layout nests its own
+// .container inside the page's, and the narrower of the two wins.
+.container:has(.profiles-page),
+.profiles-page .container {
+  max-width: 1080px;
+}
+
+// Every title fits on one line except the two longest, which may wrap:
+// HAMMER and LILLIPUT. The next-longest (Promatch) needs 697px of title
+// column, which is what sets the width below.
+.container:has(.publications-page) {
+  max-width: 1000px;
+
+  .publications ol.bibliography li {
+    // The venue badge column is 2/12 of the container, which strands the badge
+    // ~100px from the title it labels. Pin it to just wider than the widest
+    // badge instead, and give the reclaimed space to the title.
+    .col-sm-2 {
+      flex: 0 0 $pub-badge-col;
+      max-width: $pub-badge-col;
+    }
+
+    .col-sm-8 {
+      // reserve the right-hand gutter that the year heading sits in
+      flex: 0 0 calc(100% - #{$pub-badge-col} - #{$pub-year-gutter});
+      max-width: none;
+    }
+
+    // Only LILLIPUT and HAMMER are long enough to wrap at this width, and
+    // greedy wrapping strands a single word ("Correction", "Outcomes") on
+    // line 2. Balancing splits them evenly instead. No-op for the other 24,
+    // which are single-line.
+    .title {
+      text-wrap: balance;
+      // ...and drop the inherited `justify`, which would stretch the now-shorter
+      // first line across the full column. Identical rendering for the 24
+      // single-line titles; only the two wrapped ones are affected.
+      text-align: left;
+    }
+  }
+}
+
+.profile-card {
+  .card-body {
+    padding: 1rem;
+  }
+
+  // the shared page layout justifies article text, which shreds these
+  // narrow columns with stretched spacing and widowed words
+  .card-text,
+  li,
+  h2,
+  h5 {
+    text-align: left;
+    overflow-wrap: break-word;
+  }
+
+  img {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    margin-bottom: 0.75rem !important;
+  }
+
+  h2 {
+    font-size: 1.1rem;
+    margin-bottom: 0.2rem;
+  }
+
+  h5 {
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin-bottom: 0.6rem;
+  }
+
+  .card-text {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+  }
+
+  ul {
+    padding-left: 1.1rem;
+    margin-bottom: 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+}

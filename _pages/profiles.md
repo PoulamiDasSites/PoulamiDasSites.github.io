@@ -17,17 +17,11 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
-    image: won_joon_yun.jpeg
-    content: about_wonjoon.md
-    hyperink: https://www.wonjoonyun.com
+    image: sourish_wawdhane.png
+    content: about_sourish.md
+    hyperlink: https://www.linkedin.com/in/sourishw/
     image_circular: false # crops the image to make it circular
 
-  - align: right
-    image: ravi_ghadia.jpg
-    content: about_ravi.md
-    hyperlink: https://ghadiaravi13.github.io/
-    image_circular: false # crops the image to make it circular
-  
   - align: right
     image: dongwheenew.jpg
     content: about_dongwhee.md
@@ -35,8 +29,21 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
-    image: sourish_wawdhane.png
-    content: about_sourish.md
-    hyperlink: https://www.linkedin.com/in/sourishw/
+    image: pawan_kashyap.jpg
+    content: about_pawan.md
+    hyperlink: https://www.linkedin.com/in/pkash05/
+    image_circular: false # crops the image to make it circular
+
+  - align: right
+    image: aayush_merchant.jpg
+    content: about_aayush.md
+    hyperlink: https://www.linkedin.com/in/aayush-merchant-217540215/
+    image_circular: false # crops the image to make it circular
+
+graduated:
+  - align: right
+    image: ravi_ghadia.jpg
+    content: about_ravi.md
+    hyperlink: https://ghadiaravi13.github.io/
     image_circular: false # crops the image to make it circular
 ---
