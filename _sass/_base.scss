@@ -1199,6 +1199,15 @@ $pub-year-gutter: 110px;
     margin-bottom: 0;
   }
 
+  // current employment, for graduated students -- set apart from the
+  // bulleted history by weight and the site accent colour
+  .profile-role {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--global-theme-color);
+    margin-bottom: 0.55rem;
+  }
+
   ul {
     padding-left: 1.1rem;
     margin-bottom: 0;
