@@ -22,7 +22,6 @@ nav_order: 6
 - Scheduled to teach Fall 2027
 - Course Overview: [Introduction to Quantum Computing Systems: From A Software and Architecture Perspective](https://utdirect.utexas.edu/apps/student/coursedocs/courses/nlogon/download/12950064/)
 
-
 **ECE 316: Digital Logic Design** (Teaching Assistant)
 
 - Semesters: Spring 2015, Fall 2015, Spring 2016
