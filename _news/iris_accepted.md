@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won Joon's paper [IRIS: A Compiler for Distributed Quantum Systems](/assets/pdf/IRIS_EUROSYS_27.pdf) was accepted to EuroSys 2027!
+[IRIS](/assets/pdf/IRIS_EUROSYS_27.pdf) was accepted at EuroSys 2027!
