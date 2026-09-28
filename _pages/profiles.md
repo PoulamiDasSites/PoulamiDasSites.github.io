@@ -34,12 +34,6 @@ profiles:
     hyperlink: https://www.linkedin.com/in/pkash05/
     image_circular: false # crops the image to make it circular
 
-  - align: right
-    image: aayush_merchant.jpg
-    content: about_aayush.md
-    hyperlink: https://www.linkedin.com/in/aayush-merchant-217540215/
-    image_circular: false # crops the image to make it circular
-
 graduated:
   - align: right
     image: ravi_ghadia.jpg

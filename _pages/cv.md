@@ -17,6 +17,7 @@ toc:
 - UT Austin, Defense Research Advancement, Creating Connections Award (2024)
 - ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award Honorable Mention (2024)
 - IEEE MICRO Top Picks Honorable Mention for Astrea Paper (2024)
+- Cisco Research Award (2023)
 - Georgia Tech ECE’s Nominee for ACM Doctoral Dissertation Award (2023)
 - Selected as a Fellow of the AMD Chair in Computer Engineering, UT Austin (2023)
 - Selected as a Rising Star in EECS, UT Austin (2022)
