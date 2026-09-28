@@ -11,6 +11,7 @@ toc:
   sidebar: false
 ---
 
+- Cisco Research Award (2026)
 - NSF Faculty Early Career Development (CAREER) Award (2026)
 - UT Austin, ECE Junior Faculty Spirit Award (2026)
 - Ralph E. Powe Junior Faculty Enhancement Award (2025)
